@@ -11,7 +11,7 @@
 
 ### **Proposed Solution:** 
 We're building a machine learning model that will **classify customers** based on their estimated probability of having some kind of cardiovascular condition. Model input will be a **set of features of each customers**. Ideally our model's precision level needs to be higher than 65%.  <br>
-The model will be hosted on a cloud server so it can be **accessed remotely at any time** through a website
+The model will be hosted on a cloud server so it can be **accessed remotely at any time** on [this website](https://fresmini-cardio.herokuapp.com/).
 
 ### **Project Walkthrough:**
 - _Collecting data:_ all data is stored in a csv file;
