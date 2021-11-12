@@ -1,6 +1,6 @@
  ## **Problem Definition:**
 
-(Disclaimer: all information found here is _fictitious_) - CCD - Cardio Catch Diseases - is a company that offers services in **early diagnosis of cardiovascular diseases**. Currently a team of specialists is in charge of providing the diagnoses and the costs revolve around **RS1000 per diagnosys**. Customers are charged based on the diagnostic accuracy, ranging between **55% and 65%**. Each **5% increase in accuracy** levels above 50% costs **RS500 to the customer**. That results in fluctuating income for the company each month. Our job is to build a **cardiovascular disease classification model** that increases accuracy and precision of diagnoses that works with stable accuracy levels. 
+(Disclaimer: all information found here is _fictitious_) - CCD - Cardio Catch Diseases - is a company that offers services in **early diagnosys of cardiovascular diseases**. Currently a team of specialists is in charge of providing the diagnoses and the costs revolve around **RS1000 per diagnosys**. Customers are charged based on the diagnostic accuracy, ranging between **55% and 65%**. Each **5% increase in accuracy** levels above 50% costs **RS500 to the customer**. That results in fluctuating income for the company each month. Our job is to build a **cardiovascular disease classification model** that increases accuracy and precision of diagnoses that works with stable accuracy levels. 
 
 ### **_Business Problem Statement / Answers the CEO of the company is seeking:_**
 - What are the values for precision and accuracy of the model?
